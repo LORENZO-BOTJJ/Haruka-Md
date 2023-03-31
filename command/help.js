@@ -38,7 +38,7 @@ ${mundur}
  • Role : ${role}
  
  
-*MAIN MENU*${petik}
+*MAIN MENU BY LORENZO*${petik}
  • ${prefix}menu
  • ${prefix}infobot
  • ${prefix}donate
